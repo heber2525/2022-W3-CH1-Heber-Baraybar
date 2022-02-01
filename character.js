@@ -14,16 +14,3 @@ export class Character {
 }
 
 Character.prototype.series = 'GoT';
-
-// function showMessages(characters) {
-//   return characters
-//     .filter((item) => item instanceof Knight)
-//     .map((item) => item.message);
-// }
-
-// console.log(Character.series);
-// console.log(jB.series);
-// characters.forEach((item) => console.log(item.message));
-
-// jL.morir();
-// jL.status = 'death';
